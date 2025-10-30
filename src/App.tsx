@@ -8,7 +8,7 @@ import { ProtectedRoute } from './components/ProtectedRoute';
 function App() {
   return (
     <AuthProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/online-code-editor">
         <Routes>
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
