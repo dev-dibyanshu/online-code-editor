@@ -3,7 +3,8 @@
 An advanced **full-stack online code editor** that lets users **write, run, and save code** in multiple programming languages — directly from their browser.  
 It’s integrated with **Supabase** for authentication and storage, **Razorpay** for secure token-based payments, and **AI features** for intelligent code assistance and text-to-code generation.
 
-![Project Preview] (<img width="1440" height="781" alt="Screenshot 2025-10-31 at 2 40 59 AM" src="https://github.com/user-attachments/assets/241c5240-c5c2-46ad-9bcf-eb3cd4fadad2" />)
+## 🌐 Project Preview
+<img width="440" alt="Screenshot 2025-10-31 at 2 40 59 AM" src="https://github.com/user-attachments/assets/241c5240-c5c2-46ad-9bcf-eb3cd4fadad2" />
 
 
 ---
